@@ -1,8 +1,0 @@
-pandas>=1.2
-protobuf
-requests
-pytz
-openpyxl
-tzlocal
-sqlalchemy
-# mysqlclient
